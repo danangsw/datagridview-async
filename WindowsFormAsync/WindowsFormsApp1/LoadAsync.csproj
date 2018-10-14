@@ -70,6 +70,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\AbstractDataAccess.cs" />
     <Compile Include="Data\DataModelEntities.cs" />
     <Compile Include="Data\Person.cs" />
     <Compile Include="Presentation\LoadDataGridViewAsync.cs">
@@ -106,9 +107,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Classes\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="AppData.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
