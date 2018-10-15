@@ -8,7 +8,7 @@ namespace WindowsFormsApp1.Data
     public partial class DataModelEntities : DbContext
     {
         public DataModelEntities()
-            : base("name=DataModelEntities")
+            : base("name=AppDataModelConnection")
         {
         }
 
