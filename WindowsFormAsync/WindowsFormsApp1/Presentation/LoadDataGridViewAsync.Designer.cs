@@ -74,7 +74,7 @@
             // 
             this.pbLoad.Location = new System.Drawing.Point(114, 385);
             this.pbLoad.Name = "pbLoad";
-            this.pbLoad.Size = new System.Drawing.Size(357, 23);
+            this.pbLoad.Size = new System.Drawing.Size(430, 23);
             this.pbLoad.TabIndex = 2;
             // 
             // btnLoad
