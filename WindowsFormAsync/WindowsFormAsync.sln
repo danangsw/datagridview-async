@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadAsync", "WindowsFormsAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadGridWriteFileAsync", "LoadGridWriteFileAsync\LoadGridWriteFileAsync.csproj", "{42D9166F-BE5A-4FCA-83F9-96B5372647C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafeCall", "ThreadSafeCall\ThreadSafeCall.csproj", "{08C67784-1931-47E7-9083-041F365D4E70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{42D9166F-BE5A-4FCA-83F9-96B5372647C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42D9166F-BE5A-4FCA-83F9-96B5372647C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42D9166F-BE5A-4FCA-83F9-96B5372647C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C67784-1931-47E7-9083-041F365D4E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C67784-1931-47E7-9083-041F365D4E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C67784-1931-47E7-9083-041F365D4E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C67784-1931-47E7-9083-041F365D4E70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
